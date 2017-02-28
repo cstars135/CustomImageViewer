@@ -1,0 +1,6 @@
+framework module Pods_CustomImageViewer {
+  umbrella header "Pods-CustomImageViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}

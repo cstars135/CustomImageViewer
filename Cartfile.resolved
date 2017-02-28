@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "4.3.0"
+github "lkzhao/Hero" "0.1.7"
+github "ninjaprox/NVActivityIndicatorView" "v3.4"
+github "SnapKit/SnapKit" "3.1.2"
+github "Alamofire/AlamofireImage" "3.2.0"

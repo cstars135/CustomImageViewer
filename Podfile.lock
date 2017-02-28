@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.4.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Hero (0.3.3)
+  - MBProgressHUD (1.0.0)
+  - NVActivityIndicatorView (3.5)
+  - SnapKit (3.1.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - AlamofireImage (~> 3.1)
+  - Hero (~> 0.3.1)
+  - MBProgressHUD (~> 1.0.0)
+  - NVActivityIndicatorView (~> 3.4)
+  - SnapKit (~> 3.1.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Hero: bee4e762e84185b16a902dd11335c119515bb912
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  NVActivityIndicatorView: e5252b082f93885f0bfc24c318719b4eaabcd37b
+  SnapKit: 12b24f569cb7c143acc9c22b9d91b23e7b1c84a2
+
+PODFILE CHECKSUM: b0aabc161fc4d137fdce4cb48eda1c4abf4cf7b7
+
+COCOAPODS: 1.1.1
